@@ -1,4 +1,4 @@
-Glassdoor Salary Wall
+Glassdoor Salary Wall - CHROME EXTENSION
 
 - This is a chrome extension that bypasses the need to input a Salary into Glassdoor when trying to view salaries
 - *** This is just for educational purpose ***
